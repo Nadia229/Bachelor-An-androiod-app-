@@ -1,0 +1,4 @@
+#Wed May 30 20:45:32 BDT 2018
+base.0=E\:\\bachelor final work\\Bachelor final-20180302T072357Z-001\\Bachelor final\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

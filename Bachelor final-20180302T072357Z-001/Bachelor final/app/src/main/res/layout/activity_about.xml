@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:layout_marginTop="5dp"
+    android:fillViewport="true">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar1"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_weight="0.01"
+                android:background="@drawable/bg"
+                android:minHeight="2dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/back1"
+                        android:layout_gravity="center"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_arrow_back_black_24dp" />
+
+
+                </LinearLayout>
+            </android.support.v7.widget.Toolbar>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="2dp"
+                android:text="Bachelor is the first service platform for bachelors living in Dhaka. We help you to solve every domestic problems you faces in your day-to-day life. To get things done without any hassle download the app and subscribe by just following some simple steps."
+                android:textColor="#000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="8dp"
+                android:text="Bachelor provides almost all the services which you may need on daily basis like – daily meals, groceries form local market, cheap laundry. "
+                android:textColor="#000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_marginTop="8dp"
+                android:text="Bachelor is fully subscription base service. Instead of paying delivery charge you have to pay a very reasonable subscription fee."
+                android:textColor="#000"
+                android:textSize="16sp"
+                android:textStyle="normal" />
+
+
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

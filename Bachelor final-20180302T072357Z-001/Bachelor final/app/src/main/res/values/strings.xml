@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+
+    <string name="Updete">Update</string>
+    <string-array name="Updete_details">
+        <item>Update Your Account</item>
+        // items
+        <item>FirstName</item>
+        <item>LastName</item>
+        <item>RePassword</item>
+        <item>Email</item>
+        <item>LocalGuardiansName</item>
+        <item>GuardiansMobileNo</item>
+        <item>NationalIDCardNo</item>
+        <item>UniversityName</item>
+        <item>UniversityID</item>
+        <item>CompanyName</item>
+        <item>EmployID</item>
+        <item>MobileNumber</item>
+        <item>Password</item>
+        <item>Area</item>
+        <item>House</item>
+        <item>Flat</item>
+        <item>Road</item>
+        <item>BirthCertificateNo</item>
+        <item>linklogin</item>
+    </string-array>
+
+    <string-array name="planets_array">// name of the string array
+
+        // items
+        <item> Ammount</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>

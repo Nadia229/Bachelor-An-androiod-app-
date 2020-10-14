@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="techkarkhana.apps.bachelor.dhaka"
+    android:versionCode="2"
+    android:versionName="2.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/icon_final"
+        android:label="Bachelor"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.splashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="techkarkhana.apps.bachelor.dhaka.loginActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="techkarkhana.apps.bachelor.dhaka.signupActivity"
+            android:windowSoftInputMode="stateHidden" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.Order" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.Setting" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.About" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.confirmActivity" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.Faq" />
+        <activity android:name="techkarkhana.apps.bachelor.dhaka.firstname" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

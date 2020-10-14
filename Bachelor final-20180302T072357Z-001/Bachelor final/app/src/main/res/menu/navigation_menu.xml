@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group">
+    <group android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/number"
+            android:title="Helpline number"
+            android:icon="@drawable/ic_call_black_24dp"
+            />
+    </group>
+    <group android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/about"
+            android:title="About"
+            android:icon="@drawable/ic_data_usage_black_24dp"
+            />
+    </group>
+    <group android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/set"
+            android:title="Setting"
+            android:icon="@drawable/ic_build_black_24dp"
+            />
+    </group>
+
+        <group android:id="@+id/group4"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/faq"
+                android:title="FAQ"
+                android:icon="@drawable/ic_help_black_24dp"
+                />
+        </group>
+
+    </group>
+
+</menu>

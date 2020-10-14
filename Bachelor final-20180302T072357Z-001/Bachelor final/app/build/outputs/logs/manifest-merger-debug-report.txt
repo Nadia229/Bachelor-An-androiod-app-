@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fadec68b6ebbf7b7b99a70bdd61ad50f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:17:1-28:12
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\afcfaa679902ac86aac1e76d9e75650e\AndroidManifest.xml:18:1-25:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce760004902c0eb0913311188594cc60\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:17:1-30:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fadec68b6ebbf7b7b99a70bdd61ad50f\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fadec68b6ebbf7b7b99a70bdd61ad50f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce760004902c0eb0913311188594cc60\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce760004902c0eb0913311188594cc60\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:12:9-33
+	android:icon
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:11:9-44
+	android:allowBackup
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:14:9-40
+activity#techkarkhana.apps.bachelor.dhaka.splashActivity
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:15:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:19:27-74
+activity#techkarkhana.apps.bachelor.dhaka.loginActivity
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:22:9-24:57
+	android:windowSoftInputMode
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:24:13-54
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:23:13-42
+activity#techkarkhana.apps.bachelor.dhaka.signupActivity
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:25:9-27:57
+	android:windowSoftInputMode
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:26:13-43
+activity#techkarkhana.apps.bachelor.dhaka.Order
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:28:19-40
+activity#techkarkhana.apps.bachelor.dhaka.Setting
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:29:9-45
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:29:19-42
+activity#techkarkhana.apps.bachelor.dhaka.About
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:30:9-43
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:30:19-40
+activity#techkarkhana.apps.bachelor.dhaka.confirmActivity
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:31:19-50
+activity#techkarkhana.apps.bachelor.dhaka.Faq
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:32:9-41
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:32:19-38
+activity#techkarkhana.apps.bachelor.dhaka.firstname
+ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml:33:19-44
+uses-sdk
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fadec68b6ebbf7b7b99a70bdd61ad50f\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\fadec68b6ebbf7b7b99a70bdd61ad50f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:20:5-44
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\afcfaa679902ac86aac1e76d9e75650e\AndroidManifest.xml:21:5-23:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\afcfaa679902ac86aac1e76d9e75650e\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce760004902c0eb0913311188594cc60\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ce760004902c0eb0913311188594cc60\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		ADDED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+		INJECTED from E:\bachelor final work\Bachelor final-20180302T072357Z-001\Bachelor final\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\76811936c7c88b407d5906f44193c001\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\b59b01f6749447f36df6c97713b8157f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\749ed5fc21d88c0952c490b2e9fc61e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\874b4888c89846f2f1d8adb013a4c5a3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4766c6c5a36ea46991c29e3693388535\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ec4b8e508abb505793dcbbe70f608787\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\bbe192c6f0acdcdb7ed353c1fa41f119\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\185af2d888bbc89f317d9b071a04e076\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\aae1ba703dd1fa540d0bd3c339694f39\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c2be8dc8a7d59ad4c5df94a01838b9f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\af4a4fbc9f97dce6f398fe1affa95387\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\dd43689a4978b3b49fe6ff5d1b98f455\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\3d8fcd083ee7641beb9d008cdecca1ec\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\nadia suchi\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\9050c61e1ef62f6fd660432ec22b7652\AndroidManifest.xml:26:13-58
